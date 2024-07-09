@@ -1,4 +1,4 @@
-![MasterHead](https://www.blogger.com/blog/post/edit/4618702164192873360/2653100127129494426)
+![MasterHead]
 
 <h1 align="center">Hi 👋, I'm Saish Tiwari</h1>
 <h3 align="center">A passionate Software Engineering student from Nepal</h3>
