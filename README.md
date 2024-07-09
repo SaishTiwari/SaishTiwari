@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.blogger.com/blog/post/edit/4618702164192873360/2653100127129494426)
 
 <h1 align="center">Hi 👋, I'm Saish Tiwari</h1>
 <h3 align="center">A passionate Software Engineering student from Nepal</h3>
