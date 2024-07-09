@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.apple.com%2F&psig=AOvVaw0VI_6YbDTivz8CRsM1QV23&ust=1720622201650000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjq-a-XmocDFQAAAAAdAAAAABAE)
+![MasterHead](https://docs-assets.developer.apple.com/published/…acc2235560e8a08a533cf37/AppDev_course-hero@2x.png)
 
 <h1 align="center">Hi 👋, I'm Saish Tiwari</h1>
 <h3 align="center">A passionate Software Engineering student from Nepal</h3>
@@ -33,9 +33,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
+    
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
