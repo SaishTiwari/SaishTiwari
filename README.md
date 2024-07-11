@@ -11,6 +11,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Engineering+Student;Passionate+Developer;Always+Learning+New+Things" />
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Learning" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Currently+Learning+SwiftUI" />
+</p>
+
+<br>
+
 - 🌱 I’m currently learning **SwiftUI, Java, Python, iOS Development**
 
 - 🤝 I’m looking for help with **iOS Development and Application Development**
@@ -77,4 +89,8 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaishTiwari&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="End Coding" width="300"/>
 </p>
