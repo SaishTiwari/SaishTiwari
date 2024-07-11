@@ -7,9 +7,7 @@
   <img src="https://user-images.githubusercontent.com/68688057/137184767-ec1b0720-e822-4f43-88aa-7d46f918b2d3.gif" alt="Coding" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Engineering+Student;Passionate+Developer;Always+Learning+New+Things" />
-</p>
+
 
 <br>
 
