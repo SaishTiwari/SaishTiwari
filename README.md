@@ -21,7 +21,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **SwiftUI, Java, Python, iOS Development**
+- 🌱 I’m currently learning **SwiftUI, iOS Development, Java, Python**
 
 - 🤝 I’m looking for help with **iOS Development and Application Development**
 
