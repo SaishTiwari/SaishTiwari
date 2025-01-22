@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saish Tiwari</h1>
-<h3 align="center">An enthusiastic iOS Developer & Software Engineering student from Nepal</h3>
+<h3 align="center">iOS Developer & Software Engineering student from Nepal</h3>
 
 <br>
 
@@ -13,9 +13,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Learning" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Currently+Learning+SwiftUI+and+iOS+Development" />
-</p>
 
 <br>
 
