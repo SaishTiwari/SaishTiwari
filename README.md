@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saish Tiwari</h1>
-<h3 align="center">A passionate Software Engineering student from Nepal</h3>
+<h3 align="center">An enthusiastic iOS Developer & Software Engineering student from Nepal</h3>
 
 <br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68688057/137184767-ec1b0720-e822-4f43-88aa-7d46f918b2d3.gif" alt="Coding" width="400"/>
 </p>
-
-
 
 <br>
 
@@ -16,22 +14,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Currently+Learning+SwiftUI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Currently+Learning+SwiftUI+and+iOS+Development" />
 </p>
 
 <br>
 
-- 🌱 I’m currently learning **SwiftUI, iOS Development, Java, Python**
-
-- 🤝 I’m looking for help with **iOS Development and Application Development**
-
-- 👨‍💻 All of my projects are available at [github.com/SaishTiwari](https://github.com/SaishTiwari)
-
-- 💬 Ask me about **Core Java, JavaFX, Swift, SwiftUI, MySQL**
-
+- 🌱 I’m currently learning **SwiftUI, iOS Development, UIKit, Combine, and Swift**
+- 🤝 I’m looking for help with **iOS Development, SwiftUI, and building production-ready apps**
+- 👨‍💻 Check out my projects and contributions on [GitHub](https://github.com/SaishTiwari)
+- 💬 Ask me about **iOS Development, Swift, SwiftUI, UIKit, Core Data, MySQL, and Backend Integration**
 - 📫 Reach me at **tiwarisaish381@gmail.com**
-
-- ⚡ Extra Curricular Activities **I love playing football, cricket, swimming**
+- ⚡ When I’m not coding, I love playing football, cricket, and swimming.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -43,31 +36,28 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Technologies & Tools I Use:</h3>
 <p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.apple.com/swift/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
 </p>
 
