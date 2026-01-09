@@ -2,6 +2,12 @@
 
 <p align="center">
   <a href="http://saishtiwari.com.np/" target="_blank">
-    🔗 Visit my live portfolio → saishtiwari.com.np
+    🔗 Visit my portfolio → saishtiwari.com.np
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://saishtiwari.com.np/" target="_blank">
+    <img src="https://your-screenshot-url.png" width="900" />
   </a>
 </p>
