@@ -145,7 +145,7 @@ Built production-grade iOS applications using SwiftUI and Firebase. Contributed 
 <tr>
 <td width="140" align="center" valign="top">
 
-**2023**  
+**2025**  
 `Cloud Computing`
 
 </td>
