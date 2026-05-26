@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8&text=Saish%20Tiwari&fontSize=74&fontColor=ffffff&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Cloud%20Architect&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8&text=Saish%20Tiwari&fontSize=74&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20%E2%80%A2%20AWS%20Certified%20%E2%80%A2%20Cloud%20Architect&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&height=80&lines=I+build+mobile+experiences%2C+backend+systems%2C+and+cloud-ready+products;I+work+with+SwiftUI%2C+Java%2C+Spring+Boot%2C+AWS%2C+Docker%2C+and+Kubernetes;I+turn+ideas+into+reliable%2C+polished+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&height=80&lines=I+build+Java+services%2C+AWS+systems%2C+and+cloud-ready+products;I+work+with+Spring+Boot%2C+Docker%2C+Kubernetes%2C+and+AWS;I+turn+ideas+into+reliable%2C+polished+software" alt="Typing SVG" />
 
 <p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco-CCNAv7-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Maryland-USA-1E40AF?style=for-the-badge" />
@@ -19,14 +21,14 @@
 
 ## A little about me
 
-Backend and DevOps engineer with hands-on experience in Java/Spring Boot microservices, Docker and Kubernetes deployments, and AWS infrastructure. I also build with SwiftUI and care about code that stays readable, scalable, and dependable.
+Backend and DevOps engineer with hands-on experience in Java/Spring Boot microservices, Docker and Kubernetes deployments, and AWS infrastructure. Java is the center of my backend work, and I build around it with secure APIs, reliable delivery, and cloud-focused architecture. I also build with SwiftUI and care about code that stays readable, scalable, and dependable.
 
-I’m currently seeking Java, DevOps, or iOS engineering roles in the United States.
+I’m currently seeking Java, DevOps, or cloud engineering roles in the United States.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus%20Area-Backend%20%2B%20Cloud%20%2B%20iOS-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Available%20For-Engineering%20Opportunities-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus%20Area-Java%20%2B%20AWS%20%2B%20Cloud-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Available%20For-Backend%20and%20Cloud%20Roles-2563EB?style=for-the-badge" />
 
 </td>
 <td width="45%" valign="top">
@@ -76,7 +78,7 @@ Spring Boot, REST APIs, Microservices, JPA/Hibernate, PostgreSQL, MySQL
 
 **Cloud & DevOps**
 
-AWS, Docker, Kubernetes, CI/CD, GitHub Actions, CloudWatch
+AWS, Docker, Kubernetes, CI/CD, GitHub Actions, CloudWatch, IAM, VPC
 
 </td>
 <td width="50%" valign="top">
@@ -91,7 +93,34 @@ Git, IntelliJ IDEA, Xcode, Postman
 
 **Engineering**
 
-JWT Auth, System Design, OOP, Distributed Systems
+JWT Auth, System Design, OOP, Distributed Systems, Microservice Architecture
+
+</td>
+</tr>
+</table>
+
+## Java and AWS Spotlight
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Java Engineering
+
+- Spring Boot microservices
+- REST APIs and secure auth flows
+- JPA/Hibernate and SQL performance
+- Dockerized delivery and Kubernetes deployment
+
+</td>
+<td width="50%" valign="top">
+
+### AWS Engineering
+
+- EC2, S3, Lambda, and RDS
+- IAM, VPC, and security groups
+- CloudWatch dashboards and alarms
+- Cost controls and scalable cloud setup
 
 </td>
 </tr>
@@ -212,6 +241,10 @@ BSc Software Engineering
 - AWS Certified Solutions Architect – Associate
 - CCNA v7: Introduction to Networks
 - Software Engineering Job Simulation, JPMorgan Chase / Forage
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 </td>
 </tr>
