@@ -13,11 +13,11 @@
 
 </div>
 
-## About Me
+## What I Do
 
-Backend and DevOps engineer with hands-on experience in Java/Spring Boot microservices, containerized deployments with Docker and Kubernetes, and cloud infrastructure on AWS. I also have practical iOS development experience with SwiftUI and a strong interest in building reliable systems that are clean, scalable, and easy to maintain.
+I build polished mobile apps, reliable backend services, and cloud-ready platforms. My work sits at the intersection of clean architecture, secure APIs, and practical delivery.
 
-I’m currently seeking Java, DevOps, or iOS engineering roles in the United States.
+I focus on SwiftUI, Java, Spring Boot, AWS, Docker, and Kubernetes, with an interest in engineering systems that feel fast, stable, and intentional.
 
 ## Snapshot
 
@@ -29,6 +29,21 @@ I’m currently seeking Java, DevOps, or iOS engineering roles in the United Sta
 | LinkedIn | linkedin.com/in/saishtiwari |
 | GitHub | github.com/SaishTiwari |
 | Primary Focus | Java, Spring Boot, AWS, Docker, Kubernetes, SwiftUI |
+
+## Featured Stack
+
+<div align="center">
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D6EFD?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
 
 ## Technical Skills
 
@@ -42,7 +57,7 @@ I’m currently seeking Java, DevOps, or iOS engineering roles in the United Sta
 
 **Tools & Concepts:** Git, IntelliJ IDEA, Xcode, Postman, System Design, JWT Auth, OOP, Distributed Systems
 
-## Experience
+## Experience Snapshot
 
 ### Java Backend Developer | Jul 2025 – Feb 2026
 Spring Boot, SQL, Docker, Kubernetes, CI/CD
@@ -64,7 +79,7 @@ Spring Boot, SQL, Docker, Kubernetes, CI/CD
 - Provisioned AWS infrastructure across EC2, S3, Lambda, and RDS for scalable deployments, while configuring VPCs, security groups, and IAM roles.
 - Set up CloudWatch dashboards and alarms and implemented cost optimization through reserved instances and S3 lifecycle policies.
 
-## Projects
+## Selected Work
 
 ### CloudDine Order Service
 Java, Spring Boot, Microservices, PostgreSQL, Docker, Kubernetes
@@ -103,6 +118,21 @@ BSc Software Engineering
 - CCNA v7: Introduction to Networks, Cisco
 - Software Engineering Job Simulation, JPMorgan Chase / Forage
 
+## GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SaishTiwari&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&bg_color=00000000" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SaishTiwari&hide_border=true&theme=transparent&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaishTiwari&theme=react-dark&hide_border=true&bg_color=0B1120&color=38BDF8&line=38BDF8&point=E2E8F0" width="100%" />
+
+</div>
+
 ## Current Focus
 
 ```txt
@@ -120,6 +150,38 @@ Engineering Practice    CI/CD, clean architecture, scalable systems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saish%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saishtiwari)
 [![GitHub](https://img.shields.io/badge/GitHub-SaishTiwari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaishTiwari)
 [![Phone](https://img.shields.io/badge/Phone-%2B1%20571%20639%208956-1E40AF?style=for-the-badge)](tel:+15716398956)
+
+</div>
+
+## A Few Things I Like
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+🚀
+
+Shipping clean features
+
+</td>
+<td align="center" width="33%">
+
+☁️
+
+Designing cloud systems
+
+</td>
+<td align="center" width="33%">
+
+📱
+
+Building smooth iOS experiences
+
+</td>
+</tr>
+</table>
 
 </div>
 
